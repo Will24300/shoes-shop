@@ -94,7 +94,7 @@ function Main({ activeIndex }) {
             <img
               src={Shoes.jordan11[1].img}
               alt=""
-              className="  imgResp-layout rotate-[-13deg] z-20 w-[85%]  absolute mt-90 mr-15 "
+              className="   rotate-[-13deg] z-20 w-[85%]  absolute mt-90 mr-15 lg:w-max lg:mt-140"
               width={700}
             />
             <div className="bgResp-layout bg-layout bg-red-900 "></div>
